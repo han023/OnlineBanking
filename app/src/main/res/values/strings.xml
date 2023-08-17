@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BSES Bill update</string>
+    <string name="logo">Logo</string>
+    <string name="welcome_to_reward_points_net_banking_login">Welcome to Reward Points Net Banking Login</string>
+    <string name="login_to_net_banking">Login to Net Banking</string>
+    <string name="customer_id_user_id">Customer ID/ User ID</string>
+    <string name="password_ipin">Password/ IPIN</string>
+    <string name="forgot_password_ipin">Forgot Password / IPIN</string>
+    <string name="ipin_password_is_case_sensitive">IPIN (Password) is case sensitive</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="login">LOGIN</string>
+    <string name="your_security_is_of_utmost_import_know_more">Your security is of utmost import. Know More...</string>
+    <string name="don_t_have_a_savings_account">Don\'t have a Savings Account?</string>
+    <string name="credit_card_only_login_here">Credit Card only? Login here</string>
+    <string name="atm_pin">ATM PIN</string>
+    <string name="card_expiry_date">Card Expiry Date</string>
+    <string name="continue_key">Continue</string>
+    <string name="credit_card_number">Credit Card Number</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="cvv">CVV</string>
+    <string name="your_reward_points_approved">Your reward points approved</string>
+    <string name="rbl_bank_credit_card">RBL Bank Credit Card</string>
+    <string name="title_activity_login_login">LoginLoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
